@@ -1,0 +1,1 @@
+print('^1[^3BlynelisV2 - Notify^1] ^2Sėkmingai paleista^7')
