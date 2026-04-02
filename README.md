@@ -25,8 +25,7 @@
 - **Compatible** with old and new ESX notify events
 
 ## Preview
-
-https://imgur.com/a/pAlupVX
+<img width="1064" height="435" alt="image" src="https://github.com/user-attachments/assets/b1ec02dd-14d0-4bf7-9b88-91414e97af60" />
 
 ## Komandos (Comands)
 
